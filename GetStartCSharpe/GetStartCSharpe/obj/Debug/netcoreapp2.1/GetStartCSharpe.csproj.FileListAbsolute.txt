@@ -1,0 +1,14 @@
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\bin\Debug\netcoreapp2.1\GetStartCSharpe.deps.json
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\bin\Debug\netcoreapp2.1\GetStartCSharpe.runtimeconfig.json
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\bin\Debug\netcoreapp2.1\GetStartCSharpe.runtimeconfig.dev.json
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\bin\Debug\netcoreapp2.1\GetStartCSharpe.dll
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\bin\Debug\netcoreapp2.1\GetStartCSharpe.pdb
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\obj\Debug\netcoreapp2.1\GetStartCSharpe.csprojAssemblyReference.cache
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\obj\Debug\netcoreapp2.1\GetStartCSharpe.csproj.CoreCompileInputs.cache
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\obj\Debug\netcoreapp2.1\GetStartCSharpe.RazorAssemblyInfo.cache
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\obj\Debug\netcoreapp2.1\GetStartCSharpe.RazorAssemblyInfo.cs
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\obj\Debug\netcoreapp2.1\GetStartCSharpe.AssemblyInfoInputs.cache
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\obj\Debug\netcoreapp2.1\GetStartCSharpe.AssemblyInfo.cs
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\obj\Debug\netcoreapp2.1\GetStartCSharpe.RazorTargetAssemblyInfo.cache
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\obj\Debug\netcoreapp2.1\GetStartCSharpe.dll
+C:\Users\karoline.suzuki\source\repos\GetStartCSharpe\GetStartCSharpe\obj\Debug\netcoreapp2.1\GetStartCSharpe.pdb
